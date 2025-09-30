@@ -1,1 +1,3 @@
-console.log("Abhishek")
+for (let i=1; i<5; i++){
+    console.log("Abhishek Ranjan")
+}
